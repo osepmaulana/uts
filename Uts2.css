@@ -1,0 +1,14 @@
+h1 {
+    background-color: #FFFF00;
+    width: fit-content;
+    padding: 6px;
+    margin: 5px;
+    color:  rgba(0, 26, 0, 1);
+}
+
+.text {
+    background-color: blue;
+    margin: 100px;
+    padding: 50px;
+    width: fit-content;
+}
